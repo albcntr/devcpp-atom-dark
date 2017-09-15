@@ -5,3 +5,6 @@
 2. Go to Dev-C++ *Tools › Editor Options › Colors* and select **Atom Dark**.
 2. Unmark *Right Margin*, *Highlight matching braces/parentheses* and *Highlight current line* in General options. 
 (*Tools › Editor Options › General*)
+
+### Note ###
+Is not exactly the same because Dev-C++ has some limitations compared to Atom.
